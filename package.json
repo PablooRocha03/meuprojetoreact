@@ -1,0 +1,22 @@
+{
+  "name": "MeuProjetoReactNative",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@expo/webpack-config": "^18.0.1",
+    "@react-navigation/bottom-tabs": "^6.0.0",
+    "@react-navigation/native": "^6.0.0",
+    "expo": "^48.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.70.0",
+    "react-native-web": "^0.19.12"
+  }
+}
